@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 ## 🌐 **Conecta Conmigo**
 - 💼 [LinkedIn](https://www.linkedin.com/in/mijail-salinas-alvarez-407941197/)
-- 📧 **Email:** [tuemail@example.com]
+- 📧 **Email:** [Mija.salinas@duocuc.cl]
