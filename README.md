@@ -20,7 +20,7 @@
 - **Modelado**: Modelos predictivos, clustering, regresión, redes neuronales Convolucionales, Transfer Learning.
 
 ### Otros
-- **Versionamiento: GitHub.
+- **Versionamiento**: GitHub.
 - **Metodologías**: Cascada, CRISP-DM.
 - **Idiomas**: Español (nativo), Inglés (avanzado).
 
